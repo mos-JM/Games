@@ -18,6 +18,6 @@ Ten en cuenta que, una vez que cada núcleo del procesador está ejecutando un
 
 ![GitHub Logo](/src/chess.png)
 
-![GitHub Logo](/images/was.png)
+![GitHub Logo](/src/was.png)
 
-![GitHub Logo](/images/ttt.png)
+![GitHub Logo](/src/ttt.png)
