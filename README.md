@@ -16,3 +16,8 @@ Algoritmos de inteligencia utilizados MinMax y  ConcurrentDeepeningMinMax (CDMM)
 En su constructor se pueden especificar cuántos hilos concurrentes lanzará como máximo
 Ten en cuenta que, una vez que cada núcleo del procesador está ejecutando un hilo, ya no será posible mejorar el rendimiento intentando lanzar más hilos. Puedes saber (desde Java) cuántos hilos puedes usar como máximo llamando a Runtime.getRuntime ().availableProcessors().
 
+![GitHub Logo](/src/chess.png)
+
+![GitHub Logo](/images/was.png)
+
+![GitHub Logo](/images/ttt.png)
